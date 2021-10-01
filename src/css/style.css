@@ -1,0 +1,63 @@
+/* BALISES GLOBALES */
+body {
+  background-color: rgb(219, 208, 192, 0.3);
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* CSS GENERAL */
+
+h1 {
+  color: #f9cf93;
+}
+
+header nav ul li a {
+  text-decoration: none;
+  color: #f9cf93;
+  font-weight: bold;
+}
+
+header nav ul li {
+  margin-left: 50px;
+}
+
+#logoPrincipal {
+  height: 80px;
+}
+
+.logoTitrePrincipal i {
+  color: #f9cf93;
+}
+
+header .container nav ul li i {
+  color: #f9cf93;
+  margin-left: 5px;
+}
+
+header .container form button {
+  background-color: white;
+}
+
+.searchNav {
+  color: rgb(128, 128, 128, 0.6);
+}
+
+header .container nav form button {
+  background-color: #f9cf93;
+}
+
+header .container nav form {
+  height: 30px;
+  margin: auto;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+header .container nav form input {
+  outline: none;
+}
