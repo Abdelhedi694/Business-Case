@@ -15,12 +15,12 @@ a {
 
 /* Header */
 h1 {
-  color: #f9cf93;
+  color: #f3a333;
 }
 
 header nav ul li a {
   text-decoration: none;
-  color: #f9cf93;
+  color: #f3a333;
   font-weight: bold;
 }
 
@@ -33,11 +33,11 @@ header nav ul li {
 }
 
 .logoTitrePrincipal i {
-  color: #f9cf93;
+  color: #f3a333;
 }
 
 header .container nav ul li i {
-  color: #f9cf93;
+  color: #f3a333;
   margin-left: 5px;
 }
 
@@ -95,4 +95,17 @@ header .container nav form input {
   background-color: rgb(0, 0, 0, 0.2);
   color: white;
   font-weight: bold;
+}
+
+/* Menu */
+
+#menu .container ul li {
+  border-right: solid rgba(128, 128, 128, 0.4) 0.2px;
+  padding-right: 20px;
+}
+
+#menu .container ul li a {
+  color: #f3a333;
+  font-weight: bold;
+  letter-spacing: 2px;
 }
