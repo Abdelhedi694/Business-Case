@@ -109,3 +109,10 @@ header .container nav form input {
   font-weight: bold;
   letter-spacing: 2px;
 }
+
+/* Présentation */
+
+.container #presentation ul li img {
+  height: 200px;
+  width: 500px;
+}
