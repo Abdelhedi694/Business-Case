@@ -116,3 +116,31 @@ header .container nav form input {
   height: 200px;
   width: 500px;
 }
+
+/* Produits démo */
+
+#demoProduits .container h2 {
+  text-align: center;
+  color: #f3a333;
+}
+
+#demoProduits .container ul li {
+  border: solid gray 1px;
+}
+
+#produitSurbrillance {
+  background-color: #695d4a;
+}
+
+#demoProduits .container ul li:hover {
+  background-color: #695d4a;
+  color: white;
+}
+
+#demoProduits .container ul li a {
+  color: black;
+}
+
+#demoProduits .container ul li a:hover {
+  color: white;
+}
